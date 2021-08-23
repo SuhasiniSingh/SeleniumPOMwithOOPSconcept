@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16664" started-at="2021-08-23T12:54:38 CDT" finished-at="2021-08-23T12:54:54 CDT">
+    <groups>
+    </groups>
+    <test name="my automation practice test chrome" duration-ms="16664" started-at="2021-08-23T12:54:38 CDT" finished-at="2021-08-23T12:54:54 CDT">
+      <class name="com.myTests.HomePageTest">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.myTests.HomePageTest@6043cd28]" name="setUpTest" is-config="true" duration-ms="14080" started-at="2021-08-23T12:54:38 CDT" finished-at="2021-08-23T12:54:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyDressesTab()[pri:3, instance:com.myTests.HomePageTest@6043cd28]" name="verifyDressesTab" duration-ms="1643" started-at="2021-08-23T12:54:52 CDT" finished-at="2021-08-23T12:54:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDressesTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTests.HomePageTest@6043cd28]" name="tearDown" is-config="true" duration-ms="873" started-at="2021-08-23T12:54:53 CDT" finished-at="2021-08-23T12:54:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myTests.HomePageTest -->
+    </test> <!-- my automation practice test chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="my automation practice test chrome">
+      <parameter name="browser" value="chrome"/>
+      <classes>
+      <class name="com.myTests.LoginPageTest"/>
+      <class name="com.myTests.HomePageTest"/>
+      </classes>
+  </test> <!-- Test --> 
+   
+</suite> <!-- Suite -->
